@@ -1,0 +1,8 @@
+P1
+# Uniform black image
+# All pixels 1 = black
+5 4
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 1 1

@@ -1,0 +1,14 @@
+P1
+# This is the 'J' example
+# Mixed whitespace tolerated by PBM readers
+6 10
+0 0 0 0 1 0
+0 0 0 0 1 0
+0 0 0 0 1 0
+0 0 0 0 1 0
+0 0 0 0 1 0
+0 0 0 0 1 0
+1 0 0 0 1 0
+0 1 1 1 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
